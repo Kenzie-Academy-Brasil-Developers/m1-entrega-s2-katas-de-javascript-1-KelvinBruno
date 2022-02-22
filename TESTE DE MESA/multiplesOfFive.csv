@@ -1,0 +1,6 @@
+i	i<=100	i ++	If(i % 5 == 0)	return multiplos
+1	true	1+1	FALSE	?
+2	TRUE	2+1	FALSE	?
+3	TRUE	3+1	FALSE	?
+4	TRUE	4+1	FALSE	?
+11	FALSE	?	FALSE	5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100

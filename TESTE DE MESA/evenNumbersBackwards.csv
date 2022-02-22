@@ -1,0 +1,6 @@
+i,i> 0,i--,i % 2 == 0,return numeros
+20,true,20-1,true,20
+19,true,19-1,false,20
+18,true,18-1,true,20.18
+17,false,17-1,false,"20,18"
+0,false,?,?,"20, 18, 16, 14, 12, 10, 8, 6, 4, 2"

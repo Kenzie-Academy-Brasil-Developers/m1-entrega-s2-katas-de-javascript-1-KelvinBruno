@@ -1,0 +1,6 @@
+i,i>0,i--,i % 2 != 0,return numeros
+20,true,20-1,false,?
+19,true,19-1,true,19
+18,true,18-1,false,19
+17,true,17-1,true,"19,17"
+0,false,?,?,"19, 17, 15, 13, 11, 9, 7, 5, 3, 1"

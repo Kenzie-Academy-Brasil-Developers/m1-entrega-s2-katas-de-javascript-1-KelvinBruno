@@ -1,0 +1,6 @@
+i	i<=20	i ++	If(i % 2 == 0)	return pares
+1	true	1+1	false	?
+2	TRUE	2+1	TRUE	2
+3	TRUE	3+1	FALSE	2
+4	TRUE	4+1	TRUE	2,4
+21	FALSE	?	FALSE	2,4,6,8,10,12,14,16,18,20

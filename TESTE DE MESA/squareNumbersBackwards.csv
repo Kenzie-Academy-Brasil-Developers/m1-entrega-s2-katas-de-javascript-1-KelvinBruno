@@ -1,0 +1,6 @@
+" i",i>0,i--,quadrado = i * i,quadrado <= 100,return multiplos
+10,true,10-1,10*10,true,100
+9,true,9-1,9*9,true,"100, 81,"
+8,true,8-1,8*8,true,"100, 81, 64"
+7,true,7-1,7*7,true,"100, 81, 64, 49"
+0,false,?,?,?,"100, 81, 64, 49, 36, 25, 16, 9, 4, 1"
